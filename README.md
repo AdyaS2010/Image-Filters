@@ -57,10 +57,29 @@ These projects are image filter tools written in C. They apply various filters t
 $ ./filter-less g input.bmp output.bmp
 ```
 
+![image](https://github.com/user-attachments/assets/cd36e47f-2d3d-49cc-8cfd-ab3983009d6e)
+
+![image](https://github.com/user-attachments/assets/caa51d15-dd07-4fb6-a6df-38d3f977b138)
+*Before*
+
+![image](https://github.com/user-attachments/assets/5bda9c15-765b-4d5d-849e-1c73dd59f8f1)
+*After*
+
 ### Second Project
 ```bash
 $ ./filter-more e input.bmp output.bmp
 ```
+
+![image](https://github.com/user-attachments/assets/d74fd8fc-c3ed-492c-b44e-7b3f250ec3a6)
+
+![image](https://github.com/user-attachments/assets/d7ed3313-4a75-463f-b3c3-02f81ef8b8e4)
+*Before*
+
+![image](https://github.com/user-attachments/assets/f2aed66e-ace0-4187-86bd-7062a2dfe4b8)
+*After*
+
+*Whoah, mindblowing! Super cool, right! Had a lot of fun making and learning how to program them as well!!!*
+*Hope you like and use it. Enjoy!!! :D*
 
 ## Contributing
 1. Fork the repository.
